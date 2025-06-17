@@ -87,7 +87,7 @@ The application uses the Alpha Vantage API which has a limit of 25 requests per 
 - Social sharing features
 
 ## Developed By
-Ahzam Khan  
+Aryan Kandwal 
 Final Year Student
 
 ## Features
